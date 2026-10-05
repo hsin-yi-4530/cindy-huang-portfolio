@@ -1,14 +1,17 @@
 # Hsin Yi Huang — Digital Marketing Portfolio
 
-Responsive static portfolio website for GitHub Pages.
+Responsive static portfolio prepared for GitHub Pages.
 
-## Publish as your main GitHub Pages site
-1. Create a public repository named `hsin-yi-4530.github.io`.
-2. Upload `index.html`, `style.css`, and `script.js` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/(root)`, then save.
-6. Your site will be available at `https://hsin-yi-4530.github.io/` after GitHub finishes publishing.
+## Publish
+Use this repository name for a root GitHub Pages site:
+`hsin-yi-4530.github.io`
 
-## Update social work later
-Replace the three placeholder cards in the `SOCIAL & CONTENT` section of `index.html` with project descriptions and original post links.
+Upload all files in this folder to the repository root, then enable GitHub Pages under Settings → Pages → Deploy from a branch → main → /(root).
+
+## Content
+- Performance marketing case studies
+- Social Media & Video Content section with 15 unique LinkedIn video embeds
+- Correct LinkedIn profile: https://www.linkedin.com/in/hsin-yi-huang-3037731b3/
+- Contact: a4530552@gmail.com
+
+The additional 12 LinkedIn embeds are lazy-loaded only after the visitor clicks “View all 12 more videos” to reduce initial page load.
